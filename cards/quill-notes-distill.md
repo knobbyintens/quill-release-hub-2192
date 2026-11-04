@@ -18,4 +18,4 @@ inherit from the Project Numina lineage used by `Quill-Notes-Raw`.
 
 ## License
 
-Apache-2.0
+To be determined.
