@@ -4,8 +4,8 @@ Public dataset cards and licensing records for the **Quill Notes** data series.
 
 | Dataset | Card | Status | License |
 |---|---|---|---|
-| Quill-Notes-Raw | [cards/quill-notes-raw.md](cards/quill-notes-raw.md) | Released | TBD |
-| Quill-Notes-Distill | [cards/quill-notes-distill.md](cards/quill-notes-distill.md) | Released | TBD |
+| Quill-Notes-Raw | [cards/quill-notes-raw.md](cards/quill-notes-raw.md) | Released | Apache-2.0 |
+| Quill-Notes-Distill | [cards/quill-notes-distill.md](cards/quill-notes-distill.md) | Released | other |
 | Quill-Notes-Filtered | [cards/quill-notes-filtered.md](cards/quill-notes-filtered.md) | Draft | TBD |
 
 ## Notes
