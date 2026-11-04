@@ -15,4 +15,4 @@ Face. No generative processing was applied to this split.
 
 ## License
 
-To be determined.
+Apache-2.0
